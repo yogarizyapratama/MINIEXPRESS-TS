@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+
+# Logs
+/logs/
+/*.log
+
+# Lock files
+/package-lock.json
+/yarn.lock
+
+# SQLite database
+/database.sqlite
